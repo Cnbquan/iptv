@@ -1,4 +1,4 @@
- ,#genre#
+ ,#genre#
 CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
@@ -26,6 +26,7 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3
 河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
 河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+河南卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
 山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3
 湖北卫视,http://111.29.9.33:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3
 安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3
@@ -35,6 +36,7 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
 辽宁卫视,http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3
 吉林卫视,http://111.29.9.33:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+吉林卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226397/index.m3u8?IASHttpSessionId=
 黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
 四川卫视,http://111.29.9.33:6610/000000001000/1000000002000016825/index.m3u8?channel-id=bestzb&Contentid=1000000002000016825&livemode=1&stbId=3
 贵州卫视,http://111.29.9.33:6610/000000001000/1000000002000003169/index.m3u8?channel-id=bestzb&Contentid=1000000002000003169&livemode=1&stbId=3
@@ -43,9 +45,10 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
 东南卫视,http://111.29.9.33:6610/000000001000/1000000002000009263/index.m3u8?channel-id=bestzb&Contentid=1000000002000009263&livemode=1&stbId=3
 海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+海南卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=
 宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
 新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
-大湾江卫视,http://111.29.9.34:6610/200000001898/460000089800010108/1.m3u8?IAS=&IASHttpSessionId=OTT764820250620193428514306
+大湾区卫视,http://111.29.9.34:6610/200000001898/460000089800010108/1.m3u8?IAS=&IASHttpSessionId=OTT764820250620193428514306
 三沙卫视,http://111.29.9.33:6610/000000001000/4600001000000000117/1.m3u8?IAS=&IASHttpSessionId=OTT1847720250620200711387458
 厦门卫视,http://111.29.9.33:6610/000000001000/1000000005000266006/1.m3u8?IAS=&IASHttpSessionId=OTT1840920250620201107251303
 延边卫视,http://111.29.9.33:6610/000000001000/1000000005000266008/1.m3u8?IAS=&IASHttpSessionId=OTT1844820250620201702632909
@@ -119,20 +122,12 @@ NewTV精品体育,http://111.29.9.33:6610/200000001898/460000089800010078/1.m3u8
 CETV-1,http://111.29.9.33:6610/200000001898/460000089800010103/1.m3u8?IAS=&IASHttpSessionId=OTT1846620250620212840424876
 CETV-2,http://111.29.9.33:6610/200000001898/460000089800010104/1.m3u8?IAS=&IASHttpSessionId=OTT1846620250620213004424884
 CETV-4,http://111.29.9.33:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+CETV-4,http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSessionId=
 CGTN,http://111.29.9.33:6610/000000001000/1000000002000009569/index.m3u8?IASHttpSessionId
 CGTN阿拉伯语,http://111.29.9.33:6610/000000001000/1000000006000280001/index.m3u8?IASHttpSessionId
 CGTN俄语,http://111.29.9.33:6610/000000001000/1000000006000280004/index.m3u8?IASHttpSessionId
 CGTN法语,http://111.29.9.33:6610/000000001000/1000000006000280003/index.m3u8?IASHttpSessionId
 CGTN西班牙语,http://111.29.9.33:6610/000000001000/1000000006000280002/index.m3u8?IASHttpSessionId
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-CHC动作电影,http://goo.bkpcp.top/mg/dzdy
-CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
-CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
-CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC影迷电影,http://goo.bkpcp.top/mg/ymdy
-CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 黑龙江文体,http://39.134.67.149/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226239/.m3u8
 黑龙江文体,http://39.134.67.109/PLTV/88888888/224/3221225965/1.m3u8
 黑龙江都市,http://39.134.67.109/PLTV/88888888/224/3221225969/1.m3u8
@@ -146,3 +141,12 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 凤凰资讯台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台$全网通
 凤凰香港台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台$全网通
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台$全网通
+CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+CHC家庭影院,http://fn.tmde.top:35455/mgtv/644368373.m3u8
+CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8
+CHC影迷电影,http://goo.bkpcp.top/mg/ymdy
